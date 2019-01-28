@@ -1,5 +1,5 @@
-INSERT INTO burger (burger_name, devoured) VALUES ('BBQ BACON CHEESEBURGER', false);
-INSERT INTO burger (burger_name, devoured) VALUES ('JUMBO JACK', false);
-INSERT INTO burger (burger_name, devoured) VALUES ('OLD TIMER', true);
-INSERT INTO burger (burger_name, devoured) VALUES ('SPICY JALAPENO BAJA', true);
-INSERT INTO burger (burger_name, devoured) VALUES ('KRUSTY BURGER', true);
+INSERT INTO burger (burger_name, devoured) VALUES ('Bacon Burger', false);
+INSERT INTO burger (burger_name, devoured) VALUES ('Double Bacon burger', false);
+INSERT INTO burger (burger_name, devoured) VALUES ('Cowboy Burger', true);
+INSERT INTO burger (burger_name, devoured) VALUES ('New Jersey Burger', true);
+INSERT INTO burger (burger_name, devoured) VALUES ('BBQ Slider Burger', true);
